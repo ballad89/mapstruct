@@ -52,6 +52,8 @@ func main() {
 }
 
 ```
+
+```bash
 go run main.go
 
 &{Email:test@gmail.com FirstName:husayn ID: LastName:arrah ProfilePic: UserName: Verified:false}
